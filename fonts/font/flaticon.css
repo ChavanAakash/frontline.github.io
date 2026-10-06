@@ -1,0 +1,87 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("flaticon72ae.ttf?97b32858aa7d5604f17280f0b311aa9c") format("truetype"), url("flaticon72ae.woff?97b32858aa7d5604f17280f0b311aa9c") format("woff"), url("flaticon72ae.woff2?97b32858aa7d5604f17280f0b311aa9c") format("woff2"), url("flaticon72ae.eot?97b32858aa7d5604f17280f0b311aa9c#iefix") format("embedded-opentype"), url("flaticon72ae.svg?97b32858aa7d5604f17280f0b311aa9c#flaticon") format("svg"); }
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.flaticon-youtube:before {
+  content: ""; }
+
+.flaticon-linkedin:before {
+  content: ""; }
+
+.flaticon-twitter:before {
+  content: ""; }
+
+.flaticon-facebook:before {
+  content: ""; }
+
+.flaticon-headphones:before {
+  content: ""; }
+
+.flaticon-clock:before {
+  content: ""; }
+
+.flaticon-next:before {
+  content: ""; }
+
+.flaticon-call:before {
+  content: ""; }
+
+.flaticon-right-arrow:before {
+  content: ""; }
+
+.flaticon-check:before {
+  content: ""; }
+
+.flaticon-arrow-up:before {
+  content: ""; }
+
+.flaticon-instagram:before {
+  content: ""; }
+
+.flaticon-right-quote-sign:before {
+  content: ""; }
+
+.flaticon-quote:before {
+  content: ""; }
+
+.flaticon-google-plus:before {
+  content: ""; }
+
+.flaticon-right-arrow-1:before {
+  content: ""; }
+
+.flaticon-right-arrow-2:before {
+  content: ""; }
+
+.flaticon-left-arrow:before {
+  content: ""; }
+
+.flaticon-quote-1:before {
+  content: ""; }
+
+.flaticon-envelope:before {
+  content: ""; }
+
+.flaticon-location:before {
+  content: ""; }
+
+.flaticon-viber:before {
+  content: ""; }
+
+.flaticon-calendar:before {
+  content: ""; }
+
+.flaticon-down-arrow:before {
+  content: ""; }
+
+/*# sourceMappingURL=flaticon.css.map */
